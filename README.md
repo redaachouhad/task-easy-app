@@ -25,29 +25,29 @@ The Chat App is a real-time messaging application built using Next.js for the fr
 ## Pages:
 
 ### First Page
-!["first page"]("./readme_image/1.png")
+![first page](./readme_image/1.png)
 
 ### Login (Sign In) Page
-!["login page"]("./readme_image/3.png")
+![login page](./readme_image/3.png)
 
 ### Register (Sign Up) Page
-!["login page"]("./readme_image/2.png")
+![login page](./readme_image/2.png)
 
 ### Projects Page
-!["login page"]("./readme_image/4.png")
+![login page](./readme_image/4.png)
 
 ### Create Project Page
-!["login page"]("./readme_image/8.png")
+![login page](./readme_image/8.png)
 
 ### Tasks Page
-!["login page"]("./readme_image/5.png")
+![login page](./readme_image/5.png)
 ### Create Task Page
-!["login page"]("./readme_image/9.png")
+![login page](./readme_image/9.png)
 
 ### Update Task Page
-!["login page"]("./readme_image/6.png")
+![login page](./readme_image/6.png)
 
 ### Delete Task Page
-!["login page"]("./readme_image/7.png")
+![login page](./readme_image/7.png)
 
 
